@@ -1,0 +1,19 @@
+{
+  "name": "usersset",
+  "version": "1.0.0",
+  "description": "Create a set of data in json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nades2/Public.git"
+  },
+  "author": "Stephane Nadeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nades2/Public/issues"
+  },
+  "homepage": "https://github.com/nades2/Public#readme"
+}
